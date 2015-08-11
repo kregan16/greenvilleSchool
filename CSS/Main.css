@@ -1,0 +1,78 @@
+
+
+
+.main-header {
+	text-align: center;
+	background-color: #000;
+
+}
+
+h1 {
+	color: orange;
+	font-size: 40px;
+	text-shadow: 1px 1px 0 #fff;
+}
+
+
+h2 {
+	color: aqua;
+	font-size: 60px;
+	text-shadow: 1px 1px 0 #fff;
+	font-family: 'Shadows Into Light', cursive;
+}
+
+body {
+	background-color: aqua;
+}
+
+.row {
+	text-align: center;
+}
+
+h3, h4, h5, h6 {
+	color: orange;
+	font-size: 30px;
+	text-align: center;
+	text-shadow: 1px 1px 0 #000;
+}
+
+h7, h8, h9, h10, h11 {
+	color: orange;
+	font-size: 30px;
+	text-align: center;
+	text-shadow: 1px 1px 0 #000;
+}
+
+h41, h42, h31 {
+	color: orange;
+	text-align: center;
+	font-size: 25px;
+	font-family: 'Shadows Into Light', cursive;
+	text-shadow: 1px 1px 0 #000;
+}
+
+
+ul {
+	list-style-type: none;
+	text-align: center;
+	font-size: 25px;
+	font-family: 'Shadows Into Light', cursive;
+}
+
+li {
+	text-align: center;
+}
+
+h51, h101, h111 {
+	color: orange;
+	font-size: 30px;
+	font-family: 'Shadows Into Light', cursive;
+	text-align: center;
+	text-shadow: 1px 1px 0 #000;
+}
+
+
+
+
+
+
