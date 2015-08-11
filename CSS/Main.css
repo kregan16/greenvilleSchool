@@ -43,7 +43,7 @@ h7, h8, h9, h10, h11 {
 	text-shadow: 1px 1px 0 #000;
 }
 
-h41, h42, h31 {
+h41, h42, h51 {
 	color: orange;
 	text-align: center;
 	font-size: 25px;
@@ -63,10 +63,16 @@ li {
 	text-align: center;
 }
 
-h51, h101, h111 {
+h31, h51 {
 	color: orange;
 	font-size: 30px;
-	font-family: 'Shadows Into Light', cursive;
+	text-align: center;
+	text-shadow: 1px 1px 0 #000;
+}
+
+h101, h111, h112 {
+	color: orange;
+	font-size: 35px;
 	text-align: center;
 	text-shadow: 1px 1px 0 #000;
 }
