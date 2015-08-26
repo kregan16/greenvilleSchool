@@ -29,21 +29,7 @@ body {
 	text-align: center;
 }
 
-h3, h4, h5, h6 {
-	color: orange;
-	font-size: 30px;
-	text-align: center;
-	text-shadow: 1px 1px 0 #000;
-}
-
-h7, h8, h9, h10, h11 {
-	color: orange;
-	font-size: 30px;
-	text-align: center;
-	text-shadow: 1px 1px 0 #000;
-}
-
-h41, h42, h51 {
+h4 {
 	color: orange;
 	text-align: center;
 	font-size: 25px;
@@ -52,33 +38,42 @@ h41, h42, h51 {
 }
 
 
-ul {
+p, li {
 	list-style-type: none;
 	text-align: center;
 	font-size: 25px;
 	font-family: 'Shadows Into Light', cursive;
 }
 
-li {
-	text-align: center;
-}
 
-h31, h51 {
+h3{
 	color: orange;
 	font-size: 30px;
 	text-align: center;
 	text-shadow: 1px 1px 0 #000;
 }
 
-h101, h111, h112 {
+h5 {
 	color: orange;
-	font-size: 35px;
+	font-size: 23px;
 	text-align: center;
 	text-shadow: 1px 1px 0 #000;
 }
 
+ul {
+	list-style-type: none;
+}
 
+.img-responsive {
+	background-size: cover;
+	height: 250px;
+	width: 100%;
+}
 
-
-
+#contactinfo {
+	background-image: url("../img/contact-info.png");
+	background-size: cover;
+	height: 250px;
+	width: 100%;
+}
 

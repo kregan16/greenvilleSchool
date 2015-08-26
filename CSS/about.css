@@ -1,0 +1,50 @@
+
+
+.main-header {
+	text-align: center;
+	background-color: #000;
+
+}
+
+h1 {
+	color: orange;
+	font-size: 40px;
+	text-shadow: 1px 1px 0 #fff;
+	text-align: center;
+}
+h2 {
+	text-align: center;
+	color: aqua;
+	font-size: 25px;
+	font-family: 'Shadows Into Light', cursive;
+}
+
+
+
+h3 {
+	color: aqua;
+	font-size: 60px;
+	text-shadow: 1px 1px 0 #fff;
+	font-family: 'Shadows Into Light', cursive;
+}
+
+p {
+	text-align: center;
+	color: #000;
+	font-size: 25px;
+	text-shadow: 1px 1px 0 #fff;
+	font-family: 'Shadows Into Light', cursive;
+
+}
+
+li {
+	list-style-type: none;
+	text-align: center;
+	font-size: 25px;
+	font-family: 'Shadows Into Light', cursive;
+}
+
+
+body {
+	background-color: aqua;
+}
