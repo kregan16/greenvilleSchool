@@ -1,6 +1,6 @@
 
 
-.main-header {
+.main-header, .secondary-header, .navbar-header {
 	text-align: center;
 	background-color: #000;
 

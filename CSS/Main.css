@@ -7,6 +7,10 @@
 
 }
 
+.navbar-header {
+	background-color: #000;
+}
+
 h1 {
 	color: orange;
 	font-size: 40px;
@@ -46,7 +50,7 @@ p, li {
 }
 
 
-h3{
+h3 {
 	color: orange;
 	font-size: 30px;
 	text-align: center;
@@ -64,16 +68,37 @@ ul {
 	list-style-type: none;
 }
 
-.img-responsive {
+/*.img-responsive {
+	background-size: cover;
+	height: 250px;
+	width: 100%;
+}*/
+
+/*#wordwall {
+	background-image: url("../img/wordwall8:10.png");
 	background-size: cover;
 	height: 250px;
 	width: 100%;
 }
+*/
+/*#cheer {
+	background-image: url("../img/cheer.jpg");
+	background-size: cover;
+	height: 250px;
+	width: 100%;
+}*/
 
-#contactinfo {
+/*#contactinfo {
 	background-image: url("../img/contact-info.png");
 	background-size: cover;
 	height: 250px;
 	width: 100%;
-}
+}*/
 
+/*#pto {
+	background-image: url("../img/pto.png");
+	background-size: cover;
+	height: 250px;
+	width: 100%;
+}
+*/
