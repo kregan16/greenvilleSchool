@@ -92,6 +92,10 @@ ul {
     max-width:940px;
 }
 
+button {
+	-webkit-appearance: none;
+}
+
 
 /*.img-responsive {
 	background-size: cover;

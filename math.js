@@ -20,9 +20,9 @@ function single_problem() {
                     '</table>';
                   
     }
-      for (i=0; i<5; i++){
+      for (i=0; i<4; i++){
         document.write("<tr>");
-        for (j=0; j<5; j++) {
+        for (j=0; j<4; j++) {
           document.write('<td>' + single_problem() + '</td>');
         }
         document.write('</tr>');
