@@ -30,7 +30,7 @@ function getAnswers() {
   $(".studentAnswers").each(function() {
     studentAnswers.push($(this).val());
   });
-  alert(studentAnswers);
+  // alert(studentAnswers);
 }
 
 function checkAnswers() {

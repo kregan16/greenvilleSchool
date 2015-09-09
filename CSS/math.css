@@ -89,8 +89,16 @@ h1 {
       font-family: Sans-Serif;
       font-size: 24px;
       text-align: right;
-      border-bottom: solid;
+      /*border-bottom: solid;*/
       margin: 40px;
+    }
+
+
+    .studentAnswers {
+    	border-top: solid;
+    	height: 48px;
+    	width: 48px;
+
     }
 
     
