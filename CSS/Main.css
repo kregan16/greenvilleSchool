@@ -34,11 +34,11 @@ body {
 }
 
 h4 {
-	color: orange;
+	color: #000;
 	text-align: center;
 	font-size: 25px;
 	font-family: 'Shadows Into Light', cursive;
-	text-shadow: 1px 1px 0 #000;
+	text-shadow: 1px 1px 0 #fff;
 }
 
 
@@ -95,6 +95,7 @@ ul {
 
 button {
 	-webkit-appearance: none;
+	border-radius: 10px;
 }
 
 /*.img-responsive {

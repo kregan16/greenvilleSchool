@@ -2,6 +2,7 @@
 var correctGuess = false;
 var randomNumber = Math.floor(Math.random() * 9 ) + 1;
 var guess = prompt('I am thinking of a number between 1 and 9. What is it?');
+
 if (parseInt(guess) === randomNumber ) {
   correctGuess = true;
 } else if ( parseInt(guess) < randomNumber ) {

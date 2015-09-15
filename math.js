@@ -18,10 +18,12 @@ function single_problem() {
   // } else {
   //   var top = a;
   //   var bottom = b;
+  //<td></td>
+  // + '</td><td>'
   // }
   return '<table class="problem">' +
-   '<tr><td></td><td>' + top + '</td></tr>' +
-   '<tr><td>' + operator + '</td><td>' + bottom + '</td></tr>' +
+   '<tr><td>' + top + '</td></tr>' +
+   '<tr><td>' + operator + bottom + '</td></tr>' +
    "<tr><td><input class='studentAnswers' id='problem" + problemId + "' type='text'></td></tr>" +
   '</table>';   
 }
@@ -42,7 +44,8 @@ function checkAnswers() {
       $('#problem' + i).css('color', 'red');
     }
   }
-  alert(correctCount);
+  // alert(correctCount);
+  document.write('correctCount');
 }
 
 for (i=0; i<4; i++){

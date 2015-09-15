@@ -32,11 +32,11 @@ body {
 }
 
 h4 {
-	color: orange;
+	color: black;
 	text-align: center;
 	font-size: 25px;
 	font-family: 'Shadows Into Light', cursive;
-	text-shadow: 1px 1px 0 #000;
+	text-shadow: 1px 1px 0 #fff;
 }
 
 
@@ -50,7 +50,7 @@ h4 {
 p {
 	list-style-type: none;
 	text-align: center;
-	font-size: 25px;
+	font-size: 50px;
 
 }
 
@@ -81,13 +81,24 @@ h1 {
       margin: 20px 0 0 0;
       padding: 0;
     }
+
+    #quizSubmit {
+    	position: absolute;
+    	transition: .5s ease;
+    	top: 100%;
+    	left: 47%;
+    }
+
+   
+
     #whole {
       margin-left: auto;
       margin-right: auto;
     }
+
     table.problem {
       font-family: Sans-Serif;
-      font-size: 24px;
+      font-size: 2em;
       text-align: right;
       /*border-bottom: solid;*/
       margin: 40px;
@@ -96,9 +107,14 @@ h1 {
 
     .studentAnswers {
     	border-top: solid;
-    	height: 48px;
-    	width: 48px;
+    	height: 2em;
+    	width: 2em;
+    	text-align: right;
 
+    }
+
+    .input {
+    	text-align: right;
     }
 
     
