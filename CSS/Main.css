@@ -98,6 +98,14 @@ button {
 	border-radius: 10px;
 }
 
+.videoPlayer {
+	width: 100%;
+	position: absolute;
+    transition: .5s ease;
+    top: 100%;
+    left: 50%;
+}
+
 /*.img-responsive {
 	background-size: cover;
 	height: 250px;

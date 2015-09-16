@@ -45,7 +45,7 @@ function checkAnswers() {
     }
   }
   // alert(correctCount);
-  document.write('correctCount');
+
 }
 
 for (i=0; i<4; i++){

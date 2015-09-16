@@ -83,6 +83,8 @@ h1 {
     }
 
     #quizSubmit {
+    	-webkit-appearance: none;
+    	border-radius: 10px;
     	position: absolute;
     	transition: .5s ease;
     	top: 100%;
