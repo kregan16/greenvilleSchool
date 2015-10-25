@@ -5,9 +5,9 @@ var problemId = 0;
 
 function single_problem() {
   var operator = "+";
-  // if (Math.random() < .6) {
-  //   // operator = "&#8722;";
-  // }
+  if (Math.random() < .6) {
+    operator = "&#8722;";
+  }
   var a = Math.floor(Math.random()* 10) + 1;
   var b = Math.floor(Math.random()* 2)+ 1;
   operator == "+"
